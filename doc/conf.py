@@ -84,6 +84,7 @@ html_static_path = ['_static']
 
 html_theme_options = {
     "repository_url": "https://github.com/eglerean/neuroimagingworkflows/",
+    "path_to_docs": "doc/",
     # "use_repository_button": True,
     "use_edit_page_button": True,
     "use_source_button": True,
