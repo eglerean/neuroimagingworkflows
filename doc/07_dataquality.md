@@ -6,17 +6,17 @@ In this page how to check the quality of your data and how to deal with incident
 
 Data quality is an important step that should happen immediately after a dataset has been transferred from the MRI/MEG facilities. Ideally data quality happens on the same day of the scanning.
 
-# How to assess the data quality of MRI images
+## How to assess the data quality of MRI images
 
 There are various resources on the web that describe the types of artifacts for various MRI modalities. The most common ones are related to artifacts due to head motion, artifacts related to signal intensity (e.g. signal drop in a part of the image, large effect of the scanner field).
 
-## Step by step process on how to verify data quality for MRI images
+### Step by step process on how to verify data quality for MRI images
 
 :::{warning}
 Please note that at this stage the DICOM files contain the full 3D image of the face of the individual which is a strong identifier (facial recognition tools work really well with faces reconstructed from MRI images ADDLINK). Handle them with care.
 :::
 
-### 1. Convert the DICOM files to NIFTI format.
+#### 1. Convert the DICOM files to NIFTI format.
 
 For the sole purpose of data quality assurance, this step is not necessary. However, your further steps in data analysis will most likely use the NIFTI file format. There are various tools to convert the data to NIFTI. Here we choose dcm2niix as a powerful tool that can also generate BIDS compatible files.
 
@@ -26,7 +26,7 @@ How to install dcm2niix on your department workstation or on a VDI virtual machi
 - Add here the steps for installing and converting
 
 
-### 2. Open the MRI images
+#### 2. Open the MRI images
 
 This is one way of doing it on VDI linux, but feel free to use your favourite software.
 
@@ -35,7 +35,7 @@ This is one way of doing it on VDI linux, but feel free to use your favourite so
 - Within the terminal, navigate to the folder where your data are stored. For example with command `cd /m/nbe/project/MYPROJECT/rawdata/`
 - Open the MRI image with command `fsleyes IMAGENAME.nii.gz`
 
-### 3. Look for artefacts
+#### 3. Look for artefacts
 
 Here some artefacts and how they look like:
 - 
@@ -53,6 +53,7 @@ Sometimes when inspecting the MRI images, the brain of the participants that you
 
 It is however important to remember that the images collected with the scanner at AMI cannot be used for medical purposes since the equipment and the sequences use are not exactly the same that you have in a standard hospital MRI scanner. Please let the medical doctor decide how to proceed and they can be in touch with the research subject.
 
-# MEG/EEG data quality assurance
+## MEG/EEG data quality assurance
 
+To be done.
 
