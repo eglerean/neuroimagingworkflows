@@ -1,4 +1,4 @@
-# 11. Copy the BIDS dataset to scratch
+# Copy the BIDS dataset to scratch
 :::{note}
 In this page, we discuss the steps to safely copy your BIDS dataset to a scratch space for temporary storage during analysis.
 :::

@@ -1,4 +1,4 @@
-# 16. Write and publish your paper
+# Write and publish your paper
 :::{note}
 In this page, we walk through the final steps of consolidating your research into a publishable paper.
 :::

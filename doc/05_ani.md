@@ -1,4 +1,4 @@
-# 5. Collect data at ANI
+# Collect data at ANI
 
 The Aalto Neuroimaging Infrastructure (ANI) is a state-of-the-art facility designed to support advanced neuroimaging studies. Once all preliminary steps are complete, you are now poised to collect data at ANI. When using such sophisticated equipment, it's vital to ensure you're familiar with the facility's protocols, machine operation guidelines, and safety procedures.
 

@@ -1,4 +1,4 @@
-# 3. Submit your research ethics application
+# Submit your research ethics application
 
 Conducting neuroimaging research, as with many forms of scientific inquiry involving human participants, requires approval from a research ethics committee. This ensures that your research procedures respect the rights, well-being, and dignity of participants. Submitting an ethics application is not just a procedural step, but a reflection of your commitment to conducting responsible and ethically sound research.
 

@@ -1,4 +1,4 @@
-# 6. Transfer data from ANI to the project folder
+# Transfer data from ANI to the project folder
 
 Once data collection at ANI is complete, the next step is the safe and secure transfer of this data to the designated project folder. This process is critical to ensure data integrity and privacy. It's advisable to use encrypted methods of transfer to prevent potential breaches or interception.
 

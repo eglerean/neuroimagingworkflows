@@ -1,4 +1,4 @@
-# 1. Planning: Pre-registration and data management plan
+# Planning: Pre-registration and data management plan
 
 :::{note}
 "Well planned, half done!" In this page some suggestions in how to put your plans and hypothesis into more formalised formats
@@ -39,7 +39,7 @@ The pre-registration can be as vague as a grant applications can be (e.g. there 
 11. **Opportunity for Feedback**: Some pre-registration platforms or communities allow for feedback on registered plans, refining methodologies or hypotheses before the research starts.
 
 
-### Registered reports
+## Registered reports
 
 Registered reports are a more formal type of pre-registration where your hypotheses and methodological choices are peer-reviewed before data collection. This is the state of the art of doing science! A registered report is submitted to a journal as a manuscript that contains only the introduction and methods parts of your final paper. Peer reviewers will comment on the hypotheses and methods proposed to improve the protocol of the study. After the discussion, the registered report receives "In Principle Acceptance" i.e. the data collection and analysis protocols are accepted and the manuscript will be published in the journal, independently on the positive or null outcomes of the analyses. Please note that not all journals accept registered reports.
 

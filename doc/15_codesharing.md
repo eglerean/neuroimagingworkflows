@@ -1,4 +1,4 @@
-# 15. Consider sharing your analysis scripts
+# Consider sharing your analysis scripts
 :::{note}
 In this page, we discuss the advantages of making your analysis scripts publicly available.
 :::

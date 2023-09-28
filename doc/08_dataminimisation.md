@@ -1,4 +1,4 @@
-# 8. Minimise personal data
+# Minimise personal data
 
 In line with best practices for data privacy and protection, it's imperative to minimize the amount of personal data associated with the neuroimaging datasets. This not only reduces potential risks for participants but also ensures compliance with data protection regulations.
 

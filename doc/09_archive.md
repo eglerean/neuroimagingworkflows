@@ -1,4 +1,4 @@
-# 9. Raw data archival
+# Raw data archival
 
 Now that the data have been checked and minimised, it is a good moment to backup the data into your archive subfolder. 
 

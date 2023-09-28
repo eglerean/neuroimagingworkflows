@@ -1,4 +1,4 @@
-# 13. Move back important files to project for backing up purposes
+# Move back important files to project for backing up purposes
 :::{note}
 In this page, we explore the process of moving key files back to the project space to ensure they're safely backed up.
 :::

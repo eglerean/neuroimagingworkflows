@@ -1,4 +1,4 @@
-# 7. Data quality and incidental findings
+# Data quality and incidental findings
 
 :::{note}
 In this page how to check the quality of your data and how to deal with incidental findings

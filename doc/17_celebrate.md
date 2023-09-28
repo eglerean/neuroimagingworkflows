@@ -1,4 +1,4 @@
-# 17. Celebrate with your colleagues and friends
+# Celebrate with your colleagues and friends
 
 :::{note}
 In this page, we emphasize the importance of acknowledging accomplishments and celebrating milestones.

@@ -1,4 +1,4 @@
-# 12. Run preprocessing and other analyses using scratch storage, backup scripts on project
+# Run preprocessing and other analyses using scratch storage, backup scripts on project
 :::{note}
 In this page, we delve into utilizing scratch storage for preprocessing and analysis, and the importance of backing up scripts.
 :::

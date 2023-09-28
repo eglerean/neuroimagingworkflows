@@ -1,4 +1,4 @@
-# 14. Consider sharing your BIDS original dataset in a secure data sharing system
+# Consider sharing your BIDS original dataset in a secure data sharing system
 :::{note}
 In this page, we consider the benefits and precautions of sharing your BIDS dataset using secure platforms.
 :::
