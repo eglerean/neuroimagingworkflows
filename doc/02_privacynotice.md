@@ -1,6 +1,25 @@
-# Prepare the privacy notice and study information sheet
+# Data protection and consent
 
-Before you embark on any data collection, especially in neuroimaging where personal and potentially sensitive data is handled, it's paramount to prepare a comprehensive privacy notice and study information sheet. These documents inform participants about the nature of the research, what will happen to their data, and how their privacy will be maintained.
+:::{note}
+In this page some basics of data protection (GDPR) and research ethics (consent to participate)
+:::
 
-The privacy notice specifically outlines how personal data will be used, stored, and protected, ensuring participants' rights under data protection regulations. The study information sheet, on the other hand, provides a broader overview of the research, detailing the study's purpose, procedures, potential risks, and benefits.
+Brain images are personal data. Even after removing strong identifiers (names, surnames, facial traits) brain images are fingerprints so that given another dataset from the same individual it is impossible to re-identify the subject. While this scenario is of course highly unlikely, it is anyway fundamental to treat these images as personal data and protect them so that they do not end up to be publicly shared.
+
+When collecting personal data from individuals, there are two documents that the individuals are usually presented with two documents:
+
+## The privacy notice (legal)
+The privacy notice is a document that explains how the personal data are managed and what the rights of the `data subject` are.
+
+## The consent to participate (ethics)
+The consent form is a document that explains to the participants what are the purposes of the study that is being conducted and to ask for consent. 
+
+While the consent to participate is a free form document, the privacy notice is a carefully structured one. At Aalto University you do not need to re-invent your own privacy notice, you only need to download the template, fill it in, and ask for your legal expert's opinion.
+
+:::{warning}
+Always use the most recent privacy notice template. The template is updated often, so please do not reuse old versions from previous studies.
+:::
+
+Both documents will be needed for the ethical review
+
 
