@@ -15,6 +15,7 @@ This handbook describes a typical process for neuroimaging studies at Aalto, but
 
 .. toctree::
    :maxdepth: 2
+   :numbered: 
    :caption: Contents:
 
    01_prereg.md
