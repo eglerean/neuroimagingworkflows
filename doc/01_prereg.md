@@ -53,5 +53,7 @@ Here on the pros and cons.
 
 The data management plan ...
 
+## Patient and Public Involvement (PPI)
 
+PPI is best practice in medical studies: before conducting a study it is important to meet with the clinical population that is planned to be study and with public organisations that can give comments on the feasability of the research. Medical studies are not covered in this handbook since they usually do not happen at Aalto, however if your research involves a specific category of individuals, it can be beneficial to discuss the study hypotheses and design with them, before enbarking on the full project. 
 
